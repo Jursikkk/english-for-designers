@@ -14,5 +14,5 @@ This is what i do, what i live to do or what's unique about me, what i can do fo
 
 ## Class work
 
-- Alternative text
+- [Alternative text](/01-alternative-text/)
 - First impression
