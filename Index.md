@@ -19,4 +19,4 @@ This is what i do, what i live to do or what's unique about me, what i can do fo
 
 ## Extra
 
-  - [Takeaways(Takeaways)
+  - [Takeaways](Takeaways)
