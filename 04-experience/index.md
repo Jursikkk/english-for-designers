@@ -2,4 +2,4 @@
 
 ## Resumé
 
-Viev PDF resumé
+[Viev PDF resumé](Images/resumé.pdf)
