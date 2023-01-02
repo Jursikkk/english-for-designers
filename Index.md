@@ -5,7 +5,7 @@ This is what i do, what i live to do or what's unique about me, what i can do fo
 ## About me
 
 - My Portfolio - https://jursikhonza.myportfolio.com
-- Resumé
+- [Resumé](04-experience)
 - Contact: jursikhonza@email.cz
 
 ## Case Studies
