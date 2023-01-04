@@ -12,4 +12,4 @@ My objective was to make a nice-looking package and a simple, modern logo desi
 ## DURATION
 This project is still ongoing. I cooperate with the company to this day for nine months now. The company is still coming up with more and more ideas for new products, so we keep in touch.
 
-## [my project](https://jursikhonza.myportfolio.com)
+## [my project](https://jursikhonza.myportfolio.com/minus-age)
