@@ -10,12 +10,12 @@ This is what i do, what i live to do or what's unique about me, what i can do fo
 
 ## Case Studies
 
-- NMN
+- [NMN](03-Content-first)
 
 ## Class work
 
 - [Alternative text](01-alternative-text)
-- First impression
+- [First impression](02-First-impression)
 
 ## Extra
 
