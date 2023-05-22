@@ -10,7 +10,7 @@ The current logo of the organization represents three heads, which are supposed 
 ## FONT
 Organization uses the this font for its headlines. In my opinion, this font is not suitable for this use, as they are not only targeting children, but also adults who would like to use the services of the organization. It has little contrast, is too narrow and does not capture the recipient's attention. It also cannot be combined well with other fonts, which is why the organization often uses the font for the entire material, which results in poor readability and information hierarchy.
 
-![image](images/logo-1.png)
+![image](images/typografie-02.jpg)
 
 ## NEW LOGO
 The design of the new logo is based on the organization's original logo. I kept the theme of the heads that management asked me to do. Instead of depicting all three original heads, I focused on the middle one. It represents a smiling child who is surrounded by his parents. It depicts the joy and smile of a child who is the center of a happy family. The full name of the organization is shown in the logo, which is divided into two lines and aligned to the left. The name is made in Switzer font. I created two logo formats for the organization, one left aligned and one centered.
