@@ -1,6 +1,9 @@
 ## LOGO
 The current logo of the organization represents three heads, which are supposed to represent a family with a child. The center has been using this logo since the nineties. The typography is gray to brown in color. Together, these colors are very lackluster and unconvincing in my opinion. The organization uses it extensively in its white version, because it is placed on an orange background, which rarely corresponds to its orange variant.
 
+![image](images/logo-1.png)
+![image](images/logo_Kreslicíplátno1.jpg)
+
 ## FONT
 Organization uses the this font for its headlines. In my opinion, this font is not suitable for this use, as they are not only targeting children, but also adults who would like to use the services of the organization. It has little contrast, is too narrow and does not capture the recipient's attention. It also cannot be combined well with other fonts, which is why the organization often uses the font for the entire material, which results in poor readability and information hierarchy.
 
