@@ -1,3 +1,6 @@
+# Full presentation
+
+
 ## LOGO
 The current logo of the organization represents three heads, which are supposed to represent a family with a child. The center has been using this logo since the nineties. The typography is gray to brown in color. Together, these colors are very lackluster and unconvincing in my opinion. The organization uses it extensively in its white version, because it is placed on an orange background, which rarely corresponds to its orange variant.
 
