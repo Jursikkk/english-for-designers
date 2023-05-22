@@ -16,6 +16,12 @@ This is what i do, what i live to do or what's unique about me, what i can do fo
 
 - [Alternative text](01-alternative-text)
 - [First impression](02-First-impression)
+- [Content first](03-Content-first)
+- [Experience](04-experience)
+- [Voice and tone](05-Voice-and-tone)
+- [Storytelling](06-storytelling)
+- [Abstract](07-abstract)
+- [Thesis presentation](08-thesis-presentation)
 
 ## Extra
 
