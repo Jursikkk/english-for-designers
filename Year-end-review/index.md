@@ -5,9 +5,9 @@ Friendlines od the course, very good environment.
 ## 2) What did you like least about this course?
 Understanding GitHub was and still is my problem.
 ## 3) What were the top (three) things you learned this year?
-How to make a batter presentation
-How to be more self-confident
-How to organize my time batter, when i have a lot of work to do
+- How to make a batter presentation
+- How to be more self-confident
+- How to organize my time batter, when i have a lot of work to do
 ## 4) What was the most memorable activity/assignment?
 Description of objects and then recreating them in Illustrator
 ## 5) What’s something you accomplished this year that you are most proud of?
